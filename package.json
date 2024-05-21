@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-mongo": "^5.1.0",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "init": "^0.1.2",
+    "mongoose": "^8.4.0",
+    "node": "^22.2.0",
+    "validator": "^13.12.0"
+  },
+  "name": "care-link",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:Hency96/carelink.git"
+  },
+  "author": "Monday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/@github.com:Hency96/carelink/issues"
+  },
+  "homepage": "https://github.com/@github.com:Hency96/carelink#readme",
+  "description": ""
+}
